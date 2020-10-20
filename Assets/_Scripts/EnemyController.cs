@@ -1,4 +1,15 @@
-﻿using System.Collections;
+﻿////////////////////////////////////////////////////////////////////////////////////////////////////////
+//FileName: EnemyController.cs
+//FileType: Visual C# Script
+//Author: Lucas Coates
+//Student Number: 101172500
+//Last Modified On: 10/20/2020 11:18 AM
+//Copy Rights: Mana Burn
+//Description: Class that controls the movement of the enemies making them go up and down
+//             then when it reaches the top/ bottom of the screen it reverses the direction         
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

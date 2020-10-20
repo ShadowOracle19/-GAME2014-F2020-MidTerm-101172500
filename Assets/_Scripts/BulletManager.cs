@@ -1,4 +1,15 @@
-﻿using System.Collections;
+﻿////////////////////////////////////////////////////////////////////////////////////////////////////////
+//FileName: BulletManager.cs
+//FileType: Visual C# Script
+//Author: Lucas Coates
+//Student Number: 101172500
+//Last Modified On: 10/20/2020 11:24 AM
+//Copy Rights: Mana Burn
+//Description: Class that handles the bullet behaviour with building the pool of bullets the
+//             player can use and loads the Instantiated bullets from bullet factory 
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

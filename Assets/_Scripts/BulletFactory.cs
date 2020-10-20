@@ -1,4 +1,14 @@
-﻿using System.Collections;
+﻿////////////////////////////////////////////////////////////////////////////////////////////////////////
+//FileName: BulletFactor.cs
+//FileType: Visual C# Script
+//Author: Lucas Coates
+//Student Number: 101172500
+//Last Modified On: 10/20/2020 11:23 AM
+//Copy Rights: Mana Burn
+//Description: this class instatiates the bullets and "loads" them in the bullet manager class          
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

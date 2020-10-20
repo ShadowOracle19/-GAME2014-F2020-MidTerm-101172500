@@ -1,4 +1,15 @@
-﻿using System.Collections;
+﻿////////////////////////////////////////////////////////////////////////////////////////////////////////
+//FileName: PlayerController.cs
+//FileType: Visual C# Script
+//Author: Lucas Coates
+//Student Number: 101172500
+//Last Modified On: 10/20/2020 11:22 AM
+//Copy Rights: Mana Burn
+//Description: class that handles the player movement with touch controls and ensures the player doesnt
+//             go off the screen and calls a function to fire a bullet with a delay
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using UnityEditor;

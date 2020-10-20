@@ -1,4 +1,15 @@
-﻿using System.Collections;
+﻿////////////////////////////////////////////////////////////////////////////////////////////////////////
+//FileName: BulletController.cs
+//FileType: Visual C# Script
+//Author: Lucas Coates
+//Student Number: 101172500
+//Last Modified On: 10/20/2020 11:20 AM
+//Copy Rights: Mana Burn
+//Description: Class that controls the bullets so they go to the right and when they reach the end of the screen
+//             it will return the bullet back to the player so they can fire continuously
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

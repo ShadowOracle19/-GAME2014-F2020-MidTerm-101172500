@@ -1,4 +1,16 @@
-﻿using System.Collections;
+﻿////////////////////////////////////////////////////////////////////////////////////////////////////////
+//FileName: BackgroundController.cs
+//FileType: Visual C# Script
+//Author: Lucas Coates
+//Student Number: 101172500
+//Last Modified On: 10/20/2020 11:17 AM
+//Copy Rights: Mana Burn
+//Description: Class that controls the back ground movement to scroll it then reset it to make 
+//             a continuous scroll effect.
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
