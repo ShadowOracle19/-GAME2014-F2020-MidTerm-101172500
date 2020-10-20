@@ -5,6 +5,7 @@ using UnityEngine;
 [System.Serializable]
 public class BulletManager : MonoBehaviour
 {
+    [Header("Bullet References")]
     public BulletFactory bulletFactory;
     public int MaxBullets;
 

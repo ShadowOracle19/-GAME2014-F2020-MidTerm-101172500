@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class BackgroundController : MonoBehaviour
 {
+    [Header("Background controls")]
     public float horizontalSpeed;
     public float horizontalBoundary;
 

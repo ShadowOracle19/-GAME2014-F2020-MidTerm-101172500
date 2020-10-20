@@ -6,6 +6,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    [Header("Bullet Manager Reference")]
     public BulletManager bulletManager;
 
     [Header("Boundary Check")]

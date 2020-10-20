@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
+    [Header("Enemy movement")]
     public float verticalSpeed;
     public float verticalBoundary;
     public float direction;

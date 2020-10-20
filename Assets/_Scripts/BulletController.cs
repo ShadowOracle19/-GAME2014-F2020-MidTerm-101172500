@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class BulletController : MonoBehaviour, IApplyDamage
 {
+    [Header("Bullet Controls")]
     public float verticalSpeed;
     public float verticalBoundary;
     public BulletManager bulletManager;
